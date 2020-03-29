@@ -1,0 +1,2 @@
+# yumingfu.org
+myblog
