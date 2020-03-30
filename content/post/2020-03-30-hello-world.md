@@ -13,3 +13,4 @@ new start
 $$
 \sigma^2=\frac{\mu}{2*r}
 $$
+这是怎么回事呢
