@@ -13,4 +13,4 @@ new start
 $$
 \sigma^2=\frac{\mu}{2*r}
 $$
-这是怎么回事呢
+技能是一点一点学习的，这是第一次用R+blogdown+hugo建站。自己的尝试刚刚开始。

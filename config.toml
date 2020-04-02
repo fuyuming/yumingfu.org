@@ -10,14 +10,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "我的GitHub"
+    url = "https://github.com/fuyuming"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "我的Facebook"
+    url = "https://www.facebook.com/yuming.fu.75"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "我的学术论文"
+    url = "https://scholar.google.com/citations?hl=zh-CN&user=A68tK6kAAAAJ&view_op=list_works&sortby=pubdate#d=gsc_md_cod&u=%2Fcitations%3Fview_op%3Dlist_suggested_coauthors%26hl%3Dzh-CN%26json%3D%26user%3DA68tK6kAAAAJ%23t%3Dgsc_cod_sugg"
+[[menu.main]]
+    name = "关于我"
+    url = "https://bme.buaa.edu.cn/teacherInfo.aspx?catI&curID=1718"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -35,7 +38,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "logo1.png"
     width = 50
     height = 50
     alt = "Logo"
